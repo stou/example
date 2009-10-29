@@ -1,3 +1,7 @@
+/*
+ * testing git on windows
+ */
+
 #include <stdio.h>
 #include <string.h>
 
