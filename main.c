@@ -1,5 +1,6 @@
 /*
  * testing git on windows
+ * another small change
  */
 
 #include <stdio.h>
